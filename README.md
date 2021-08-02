@@ -1,2 +1,2 @@
 # Modeling-Likert-Scale
-##ntro
+##Intro
