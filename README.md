@@ -47,4 +47,6 @@ After running the model we get
 Now this can be explained with different plots.
 <div><img src="fig//result.png" width="820"  class="inline"> </div>
 *fig: Change in satisfaction levels*
+
+
 The plot (on the right) indicates our predictions. In terms of ordered categories you not just get the distribution for a point but you get the distribution for the whole vector i.e for all categories often called simplex. Here the line represents the change in satisfaction level between department A and others, but an interesting thing to notice here is the distance between each category for both cases. The plot on the left is the histogram of our prediction. Blue represents ratings from our department and gary represent ratings from other departments. Looking at the plots we can say that employees from our departments are less satisfied than other departments.
