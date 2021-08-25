@@ -1,6 +1,8 @@
 #Modeling the Likert-Scale
 *Keywords: GLM, ordered logistics, Likert scale, Bayesian statistics, Pymc3*
-
+i have done 
+<img src ="https://render.githubusercontent.com/render/math?math=/alpha /sim Normal(3,4)"></br>i have done 
+<img src ="https://render.githubusercontent.com/render/math?math=/alpha /sim Normal(3,4)"></br>
 ## Introduction
 Now and then; researchers have to use the Likert scale for measuring some variables because not all variables can be measured through engineering devices. For Example, let us consider the variable 'Happiness'. How can we measure Happiness? There are no reliable psychiatric devices that can measure happiness. But even though no psychiatric diagnoses are reliable one way to attempt measuring happiness is to use the Likert scale which is just asking the participants From a scale of 1-3, how happy are you? But these numbers cannot be interpreted as numbers from normal numbers. Indeed these numbers are defined by us and remain in the boundary defined by us i.e every other number is squeezed and limited into these scales. For Example, Even though I feel immensely happy today I cannot choose 100; I have to choose 3. 
 One other thing we know about these variables is that it is not categories because 3>2>1. It means that it preserves monotonic assumption i.e I am happier than people who select 1 and 2 if I had selected 3. With these challenges and problems, someone already came up with methods to model such variables.
