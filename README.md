@@ -1,5 +1,6 @@
 #Modeling the Likert-Scale
 *Keywords: GLM, ordered logistics, Likert scale, Bayesian statistics, Pymc3*
+
 i have done
 
 <img src ="https://render.githubusercontent.com/render/math?math=\alpha \sim Norm()"></br>
