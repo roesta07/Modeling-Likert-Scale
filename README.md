@@ -52,6 +52,7 @@ After running the model we get
 ## What does this mean?
 Now this can be explained with different plots.
 <div><img src="fig//result.png" width="820"  class="inline"> </div>
+
 *fig: Change in satisfaction levels*
 
 
